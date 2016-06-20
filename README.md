@@ -2,6 +2,8 @@
 
 A dashboard page to show additional environment information.
 
+![screen demo](https://raw.githubusercontent.com/hissy/addon_advanced_environment_info/master/screen.png)
+
 * Current Environment
 * Canonical URL
 * App Timezome

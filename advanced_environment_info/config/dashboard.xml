@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="Advanced" path="/dashboard/system/environment/advanced_info" filename="/dashboard/system/environment/advanced_info.php" pagetype="" description="" package="advanced_environment_info" />
+    </singlepages>
+</concrete5-cif>
